@@ -27,7 +27,7 @@ def handle_start(message):
 your Key Is 👇🏻👇🏻👇🏻</b>
     '''
     r = requests.get('https://api.github.com/events', stream = True)
-    bot.reply_to(message, t+g[1:2688], parse_mode='HTML')
+    bot.reply_to(message, t+g[2600:2688], parse_mode='HTML')
     
 
 
