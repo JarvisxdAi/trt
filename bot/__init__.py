@@ -10,7 +10,7 @@ def handle_start(message):
     start_message = '''
 <b>Hey Folks,
 Welcome to Tocsi Server Key Generator
-Tab Here For Genrate 1hrs Key
+Tab Here For Genrate 1hrs Key DDDDDD
       /getkey 
 It's Work In All App
 Join Our Channel @Tocsiserver </b>
